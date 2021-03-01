@@ -1,0 +1,7 @@
+{
+  "mapWidth":  30,
+  "mapHeight" : 30,
+  "enemyTankXParameter" : 5,
+  "wallXParameter" : 5,
+  "startingHealth" : 5
+}
